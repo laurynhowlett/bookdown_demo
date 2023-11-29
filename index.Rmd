@@ -1,0 +1,14 @@
+---
+title: "My Bookdown"
+author: "Lauryn Howlett"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+description: "This is an example of using the bookdown package. The output format for this example is bookdown::gitbook."
+---
+
+# Introduction {-}
+
+My first bookdown
+
